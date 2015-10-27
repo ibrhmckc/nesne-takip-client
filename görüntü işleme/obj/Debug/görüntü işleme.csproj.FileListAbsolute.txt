@@ -1,0 +1,33 @@
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.exe
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.pdb
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Controls.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Fuzzy.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Genetic.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Imaging.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.MachineLearning.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Math.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Neuro.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.Kinect.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.VFW.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Video.Ximea.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AForge.Vision.xml
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\Interop.WMPLib.dll
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\AxInterop.WMPLib.dll
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csprojResolveAssemblyReference.cache
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\Interop.WMPLib.dll
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\AxInterop.WMPLib.dll
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csproj.ResolveComReference.cache
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü_işleme.Form1.resources
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü_işleme.Properties.Resources.resources
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csproj.GenerateResource.Cache
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.exe
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.pdb
+c:\users\halil\documents\visual studio 2013\Projects\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.exe.config
